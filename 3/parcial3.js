@@ -99,8 +99,3 @@ const Mostrar = () => {
     document.getElementById('info').innerHTML = html;
 }
 }
-
-
-const Ordenar = () => {
-    televisores.sort(tele7,tele8,tele2,tele3,tele4,tele6,tele1,tele5,tele9);
-};
